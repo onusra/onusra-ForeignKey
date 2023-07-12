@@ -64,7 +64,7 @@ import java.sql.Statement;
  * Additional reference material if needed: https://www.w3schools.com/sql/sql_foreignkey.asp
  */
 
- 
+
 public class CreateTableWithForeignKey {
 
     /**
@@ -81,6 +81,8 @@ public class CreateTableWithForeignKey {
     public static void main(String [] args){
         
     }
+
+    
     public void problem1(){
         /**
          * Assignment: create a "post" table that has the following columns:
